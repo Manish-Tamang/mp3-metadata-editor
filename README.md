@@ -2,8 +2,8 @@
 
 A modern, client-side MP3 metadata editor built with Next.js and TypeScript. Edit MP3 file tags including title, artist, album, and cover image directly in your browser without uploading files to any server.
 
-![MP3 Metadata Editor - Hero Section](/Screenshot 2025-08-10 234240.png)
-![MP3 Metadata Editor - Editor Interface](/Screenshot 2025-08-10 234308.png)
+![MP3 Metadata Editor - Hero Section](https://github.com/Manish-Tamang/mp3-metadata-editor/blob/main/public/Screenshot%202025-08-10%20234240.png?raw=true)
+![MP3 Metadata Editor - Editor Interface](https://github.com/Manish-Tamang/mp3-metadata-editor/blob/main/public/Screenshot%202025-08-10%20234308.png?raw=true)
 
 ## ✨ Features
 
